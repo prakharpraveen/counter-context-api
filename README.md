@@ -1,6 +1,6 @@
 # Counter-Context-API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Counter App using React Context API
 
 ## Available Scripts
 
